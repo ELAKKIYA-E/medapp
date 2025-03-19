@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: Medical-Chatbot
+Version: 0.0.0
+Summary: A Retrieval-Augmented Generation (RAG) based Medical Chatbot.          With the base model as Llama2 from Meta, the Retrieval system uses a medical              document as corpus to generate context-rich output. 
+Author: Abhra Ray Chaudhuri
+Author-email: hyperparameter21@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
